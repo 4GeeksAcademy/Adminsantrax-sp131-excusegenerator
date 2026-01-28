@@ -2,7 +2,8 @@
 
 body{
     
-    background: white;
+    background: linear-gradient(rgb(132, 0, 255),rgb(12, 25, 209));
+    background-attachment: fixed;
 }
 .excuse{
     font-weight: 800;
